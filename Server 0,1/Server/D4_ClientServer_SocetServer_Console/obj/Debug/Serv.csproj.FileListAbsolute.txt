@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\bin\Debug\D4_ClientServer_SocetServer_Console.exe.config
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\bin\Debug\D4_ClientServer_SocetServer_Console.exe
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\bin\Debug\D4_ClientServer_SocetServer_Console.pdb
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\obj\Debug\Serv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\obj\Debug\D4_ClientServer_SocetServer_Console.exe.config
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\obj\Debug\Serv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\obj\Debug\D4_ClientServer_SocetServer_Console.exe
+C:\Users\user\Desktop\exm\Server\D4_ClientServer_SocetServer_Console\obj\Debug\D4_ClientServer_SocetServer_Console.pdb
