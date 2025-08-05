@@ -31,7 +31,7 @@ namespace WindowsFormsApp11
             if (this.timer_is_on == false)
             {
                 this.timer_is_on = true;
-                timer_begin();
+                TimerBeginAsync();
             }
         }
 
@@ -39,28 +39,18 @@ namespace WindowsFormsApp11
         {
         }
 
-        private void timer_begin()
+        private async Task TimerBeginAsync()
         {
-            Timer timer = new Timer();
-            timer.Interval = 1000;
-            timer.Tick += Timer_Tick;
-            timer.Start();
-        }
-
-        // Отвечает за то, что будtт меняться через каждую итерацию таймера timer
-        void Timer_Tick(object sender, EventArgs e)
-        {
-            if (this.begin == 0)
-            {
-                label1.Text = "КОНЕЦ:)";
-            }
-            else
+            TimeSpan time;
+            while (this.begin > 0)
             {
                 begin -= 1;
-                // Специальный класс для удобного хранения Времени
-                TimeSpan time = new TimeSpan(0, 0, this.begin);
+                time = new TimeSpan(0, 0, this.begin);
                 label1.Text = time.ToString(@"m\:ss");
+                await Task.Delay(1000);
             }
+            time = new TimeSpan(0, 0, this.begin);
+            label1.Text = time.ToString(@"m\:ss");
         }
     }
 }

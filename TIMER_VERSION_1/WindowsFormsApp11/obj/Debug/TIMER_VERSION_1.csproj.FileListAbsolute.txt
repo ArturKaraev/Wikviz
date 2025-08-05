@@ -1,0 +1,10 @@
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\TIMER_VERSION_1.csproj.AssemblyReference.cache
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\TIMER_VERSION_1.csproj.GenerateResource.cache
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\TIMER_VERSION_1.csproj.CoreCompileInputs.cache
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Wikviz\TIMER_VERSION_1\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
