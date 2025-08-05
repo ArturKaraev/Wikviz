@@ -26,12 +26,12 @@ namespace WindowsFormsApp11
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private async void button1_Click(object sender, EventArgs e)
         {
             if (this.timer_is_on == false)
             {
                 this.timer_is_on = true;
-                TimerBeginAsync();
+                await TimerBeginAsync();
             }
         }
 
@@ -39,6 +39,7 @@ namespace WindowsFormsApp11
         {
         }
 
+        // Асинхронный метод, который отвечает за работу таймера
         private async Task TimerBeginAsync()
         {
             TimeSpan time;
