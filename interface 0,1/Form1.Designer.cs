@@ -104,7 +104,7 @@
             // TextAnswer
             // 
             this.TextAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.TextAnswer.Location = new System.Drawing.Point(116, 220);
+            this.TextAnswer.Location = new System.Drawing.Point(124, 220);
             this.TextAnswer.Name = "TextAnswer";
             this.TextAnswer.Size = new System.Drawing.Size(577, 46);
             this.TextAnswer.TabIndex = 6;
@@ -127,7 +127,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1046, 666);
             this.Controls.Add(this.Button2);
             this.Controls.Add(this.TextAnswer);
             this.Controls.Add(this.LabelQuest);
