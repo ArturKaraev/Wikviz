@@ -1,0 +1,34 @@
+CREATE TABLE dbo.Tabl
+(
+Id int NOT NULL,
+Quest NVARCHAR(300),
+Answer NVARCHAR(300),
+Explanation NVARCHAR(300),
+CONSTRAINT QUIZ_Id PRIMARY KEY CLUSTERED (Id)
+);
+
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (1, 'Что выведет этот код? int i = 0; Console.WriteLine(i++ + ++i);', '2');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (2, 'Что произойдет при выполнении этого кода? string s = null; Console.WriteLine(s is string)', 'False');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (3, 'Что выведет этот код? Console.WriteLine(1 / 2 * 3.0);', '0.0');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (4, 'Что выведет этот код? Console.WriteLine(1 + 2 + "3" + 4 + 5)', '"3345"');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (5, 'Что выведет этот код? var a = new Action(() => Console.Write("A")); var b = new Action(() => Console.Write("B"));var c = a + b + a;c();', 'ABA');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (6, 'Что выведет этот код? var dict = new Dictionary<string, int> { { "a", 1 } }; dict["a"]++; Console.WriteLine(dict["a"]);', '2');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (7, 'Какой результат выполнения? try {throw new Exception("1");} catch (Exception ex) {Console.Write(ex.Message); throw new Exception("2");} finally {Console.Write("3");}', 'Программа упадёт с Exception("2")');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (8, 'Что будет, если в switch передать null для enum? enum Color {Red, Green} Color? color = null; switch (color) { ... }', 'Ничего, switch обрабатывает null.');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (9, 'Где хранятся локальные переменные метода (не static, не поля класса)?', 'В стеке (stack)');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (10, 'Можно ли создать экземпляр интерфейса в C#?', 'Нет, интерфейсы — это абстракции');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (11, 'Что произойдёт, если в finally бросить исключение? try {throw new Exception("A");} finally {throw new Exception("B");}', 'Будет выброшено исключение "B" (первое теряется)');
+INSERT INTO Tabl
+(Id, Quest, Answer) VALUES (12, 'Может ли деструктор (финализатор) быть вызван явно? class Test {~Test() => Console.Write("Finalized");} var t = new Test(); // Можно ли вызвать деструктор вручную?', 'Нет, только сборщик мусора вызывает финализатор');
+
