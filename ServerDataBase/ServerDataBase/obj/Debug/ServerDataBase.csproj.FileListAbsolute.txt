@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\obj\Debug\ServerDataBase.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\obj\Debug\ServerDataBase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\bin\Debug\ServerDataBase.exe.config
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\bin\Debug\ServerDataBase.exe
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\bin\Debug\ServerDataBase.pdb
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\obj\Debug\ServerDataBase.exe
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\obj\Debug\ServerDataBase.pdb
+C:\Users\user\source\repos\ServerDataBase\ServerDataBase\obj\Debug\ServerDataBase.exe.config
