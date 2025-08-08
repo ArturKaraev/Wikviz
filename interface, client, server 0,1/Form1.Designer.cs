@@ -1,4 +1,4 @@
-﻿namespace @interface
+﻿namespace InterfaceServerClient
 {
     partial class Form1
     {
@@ -11,7 +11,7 @@
         /// Освободить все используемые ресурсы.
         /// </summary>
         /// <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
-       
+
 
         #region Код, автоматически созданный конструктором форм Windows
 
@@ -126,6 +126,7 @@
             this.LabelResult.TabIndex = 8;
             this.LabelResult.Text = "Результат:";
             this.LabelResult.Visible = false;
+            this.LabelResult.Click += new System.EventHandler(this.LabelResult_Click);
             // 
             // Label
             // 

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace @interface
+namespace InterfaceServerClient
 {
     internal class Program
     {

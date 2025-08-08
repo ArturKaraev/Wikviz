@@ -53,3 +53,16 @@ C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interfa
 C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.pdb
 C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\Newtonsoft.Json.dll
 C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.csproj.Up2Date
+C:\Wikviz\interface, client, server 0,1\bin\Debug\@interface.exe.config
+C:\Wikviz\interface, client, server 0,1\bin\Debug\@interface.exe
+C:\Wikviz\interface, client, server 0,1\bin\Debug\@interface.pdb
+C:\Wikviz\interface, client, server 0,1\bin\Debug\Newtonsoft.Json.dll
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.Form1.resources
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.Properties.Resources.resources
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Wikviz\interface, client, server 0,1\obj\Debug\interface.csproj.Up2Date
+C:\Wikviz\interface, client, server 0,1\obj\Debug\@interface.exe
+C:\Wikviz\interface, client, server 0,1\obj\Debug\@interface.pdb
+C:\Wikviz\interface, client, server 0,1\obj\Debug\helloWorld.GameBegan.resources

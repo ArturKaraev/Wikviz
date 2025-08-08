@@ -1,5 +1,4 @@
-﻿using Serv;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,7 +16,7 @@ using System.Windows.Forms;
 
 
 
-namespace @interface
+namespace InterfaceServerClient
 {
     public partial class Form1 : Form
     {
@@ -26,7 +25,7 @@ namespace @interface
         public Form1()
         {
             InitializeComponent();
-            
+            /*
             Random rand = new Random();
             // Генерируем число от 1 до 12
             int randomNumber1 = rand.Next(1, 13);
@@ -36,13 +35,15 @@ namespace @interface
             number1 = randomNumber1;
             number2 = randomNumber2;
             number3 = randomNumber3;
+            */
         }
 
-        // Создаем объект Random
+
         int number1;
         int number2;
         int number3;
 
+        
         private void button1_Click(object sender, EventArgs e)
         {
             /*
@@ -73,14 +74,16 @@ namespace @interface
                
             }
             */
+
         }
             
-        
+
         int num = 0;
         string Answer1 = "";
         string Answer2 = "";
         string Answer3 = "";
         int point = 0;
+
         private void Button2_Click(object sender, EventArgs e)
         {
             /*
@@ -172,11 +175,11 @@ namespace @interface
         {
 
         }
+
+        private void LabelResult_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
-    public class QuestionService
-    {
-        public QuestionService() { }
-
-    }
 }
