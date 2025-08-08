@@ -1,0 +1,12 @@
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.exe.config
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.exe
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.pdb
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface & client & server.csproj.AssemblyReference.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.Form1.resources
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.Properties.Resources.resources
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface & client & server.csproj.GenerateResource.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface & client & server.csproj.CoreCompileInputs.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interfac.7B7AD815.Up2Date
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\@interface.exe
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\@interface.pdb

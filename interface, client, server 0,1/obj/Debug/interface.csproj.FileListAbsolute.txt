@@ -1,0 +1,55 @@
+C:\Users\user\source\repos\interface\bin\Debug\@interface.exe.config
+C:\Users\user\source\repos\interface\bin\Debug\@interface.exe
+C:\Users\user\source\repos\interface\bin\Debug\@interface.pdb
+C:\Users\user\source\repos\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\interface\obj\Debug\interface.Form1.resources
+C:\Users\user\source\repos\interface\obj\Debug\interface.Properties.Resources.resources
+C:\Users\user\source\repos\interface\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\user\source\repos\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\interface\obj\Debug\@interface.exe
+C:\Users\user\source\repos\interface\obj\Debug\@interface.pdb
+C:\Users\user\source\repos\interface\obj\Debug\@interface.exe.config
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.csproj.AssemblyReference.cache
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.Form1.resources
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.Properties.Resources.resources
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.csproj.GenerateResource.cache
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.csproj.CoreCompileInputs.cache
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\@interface.exe.config
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\@interface.exe
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\@interface.pdb
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.exe
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\Newtonsoft.Json.dll
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.pdb
+Y:\1\Wikviz\версии кодов\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.exe.config
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\interface.csproj.Up2Date
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\@interface.exe
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\@interface.pdb
+Y:\1\Wikviz\версии кодов\interface 0,1\obj\Debug\@interface.exe.config
+C:\Users\user\Desktop\interface 0,1\bin\Debug\@interface.exe.config
+C:\Users\user\Desktop\interface 0,1\bin\Debug\@interface.exe
+C:\Users\user\Desktop\interface 0,1\bin\Debug\@interface.pdb
+C:\Users\user\Desktop\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.exe
+C:\Users\user\Desktop\interface 0,1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.pdb
+C:\Users\user\Desktop\interface 0,1\bin\Debug\D4_ClientServer_SocetServer_Console.exe.config
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\interface 0,1\obj\Debug\@interface.exe.config
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.Form1.resources
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.Properties.Resources.resources
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\interface 0,1\obj\Debug\interface.csproj.Up2Date
+C:\Users\user\Desktop\interface 0,1\obj\Debug\@interface.exe
+C:\Users\user\Desktop\interface 0,1\obj\Debug\@interface.pdb
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.Form1.resources
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.Properties.Resources.resources
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\@interface.exe
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\@interface.pdb
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.exe.config
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.exe
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\@interface.pdb
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sosce\OneDrive\Рабочий стол\interface 0,2\obj\Debug\interface.csproj.Up2Date
